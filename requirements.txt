@@ -2,7 +2,8 @@ langchain
 streamlit
 langchain_core
 langchain_community
-langchain_google_genai
 langchain_groq
-pypdf
-faiss-cpu
+langchain_chroma
+langchain_huggingface
+python-dotenv
+chromadb
