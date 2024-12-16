@@ -96,12 +96,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-## Acknowledgements 🙏
+## Contact 📬
 
-- [Streamlit](https://streamlit.io/)
-- [Hugging Face](https://huggingface.co/)
-- [LangChain](https://github.com/langchain-ai/langchain)
+- **Email**: dhrumilbhut@gmail.com
+- **LinkedIn**: [dhrumilbhut](https://www.linkedin.com/in/dhrumilbhut?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Dhrumil Bhut](https://github.com/dhrumilbhut)
